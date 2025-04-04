@@ -10,9 +10,9 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@danphannguyen/design-system-dpn": "^0.0.2",
     "react": "^19.0.0",
-    "react-dom": "^19.0.0",
-    "@danphannguyen/design-system-dpn": "^0.0.1"
+    "react-dom": "^19.0.0"
   },
   "devDependencies": {
     "@eslint/js": "^9.22.0",
