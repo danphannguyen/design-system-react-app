@@ -10,7 +10,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@danphannguyen/design-system-dpn": "^0.0.2",
+    "@danphannguyen/design-system-dpn": "^0.0.3",
     "react": "^19.0.0",
     "react-dom": "^19.0.0"
   },
